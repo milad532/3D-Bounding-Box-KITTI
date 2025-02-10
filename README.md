@@ -46,8 +46,7 @@ The performance of each method is evaluated using the Intersection over Union (I
 ### Sample Output
 Below is an example of detected 3D bounding boxes visualized on an image from the KITTI dataset:
 
-![3D Bounding Box Results](images/3D_bbox_results.jpeg)
-
+![3D Bounding Box Results](3D_bbox_results.png)
 ## Usage
 1. Clone this repository:
    ```bash
@@ -77,5 +76,5 @@ Below is an example of detected 3D bounding boxes visualized on an image from th
 This project is licensed under the MIT License.
 
 ## Author
-[Your Name]
+[Milad Hosseini]
 
