@@ -76,5 +76,5 @@ Below is an example of detected 3D bounding boxes visualized on an image from th
 This project is licensed under the MIT License.
 
 ## Author
-[Milad Hosseini]
+Milad Hosseini
 
